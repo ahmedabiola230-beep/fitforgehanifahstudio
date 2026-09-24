@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "smiling black woman gym trainer wearing sportswear photo"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "smiling black woman gym trainer wearing sportswear photo",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e730f013717b.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1067px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/26d11acea7ef.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f5f841290f4d.png",
+      "caption": "",
+      "source": "Women's Health",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d7ae76535677.jpg",
+      "caption": "",
+      "source": "Creighton University Athletics",
+      "original_width": "1233px",
+      "original_height": "1542px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/45bb171d3fe1.jpg",
+      "caption": "",
+      "source": "www.strongerlabel.com",
+      "original_width": "1600px",
+      "original_height": "2558px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ffed46f80ba4.jpg",
+      "caption": "",
+      "source": "Nike",
+      "original_width": "912px",
+      "original_height": "1216px"
+    }
+  ]
+}

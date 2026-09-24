@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "confident male fitness trainer portrait standing in gym arms crossed"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "confident male fitness trainer portrait standing in gym arms crossed",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/856d3140b8bf.jpg",
+      "caption": "",
+      "source": "Centr",
+      "original_width": "1472px",
+      "original_height": "828px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/594e2230d750.jpg",
+      "caption": "",
+      "source": "Alchemy PT",
+      "original_width": "2449px",
+      "original_height": "1633px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c078a0f40fad.jpg",
+      "caption": "",
+      "source": "www.bowflex.com",
+      "original_width": "1920px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3db764bc2419.jpg",
+      "caption": "",
+      "source": "Muscle & Fitness",
+      "original_width": "1109px",
+      "original_height": "739px"
+    }
+  ]
+}

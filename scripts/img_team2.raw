@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "male strength coach portrait black gym wear"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "male strength coach portrait black gym wear",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/39fd654339c7.jpeg",
+      "caption": "",
+      "source": "Pentagon Strength",
+      "original_width": "3432px",
+      "original_height": "5148px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ec102920c410.jpg",
+      "caption": "",
+      "source": "Cully Strength",
+      "original_width": "2499px",
+      "original_height": "2664px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/edbdc1e2309c.jpg",
+      "caption": "",
+      "source": "Strength & Conditioning for Combat Sports | PHYSICAL",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/13c90e695843.png",
+      "caption": "",
+      "source": "The Body Factory",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    }
+  ]
+}

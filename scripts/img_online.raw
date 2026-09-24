@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "fitness coach video call laptop home workout"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "fitness coach video call laptop home workout",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/adf615b06f2e.jpg",
+      "caption": "",
+      "source": "CNET",
+      "original_width": "3840px",
+      "original_height": "2160px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/56e4c4fa7449.png",
+      "caption": "",
+      "source": "T3",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/14522564050b.jpg",
+      "caption": "",
+      "source": "Android Central",
+      "original_width": "4240px",
+      "original_height": "2384px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/413ddd7c69e0.webp",
+      "caption": "",
+      "source": "www.trainwithkickoff.com",
+      "original_width": "1024px",
+      "original_height": "1370px"
+    }
+  ]
+}

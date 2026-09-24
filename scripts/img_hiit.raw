@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "high intensity interval training group fitness class"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "high intensity interval training group fitness class",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e51f5109628a.jpg",
+      "caption": "",
+      "source": "Crunch Fitness",
+      "original_width": "1600px",
+      "original_height": "736px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44beb837d064.jpg",
+      "caption": "",
+      "source": "Men's Journal",
+      "original_width": "2560px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f659f8f06693.jpg",
+      "caption": "",
+      "source": "Action Fitness",
+      "original_width": "2120px",
+      "original_height": "1414px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fb79384ab786.jpg",
+      "caption": "",
+      "source": "Summit Training Grand Rapids",
+      "original_width": "2000px",
+      "original_height": "1333px"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "person stretching before workout gym"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "person stretching before workout gym",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/529269381ac0.jpg",
+      "caption": "",
+      "source": "Torokhtiy Weightlifting",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b9371a14adf3.jpg",
+      "caption": "",
+      "source": "Hygieia Strength & Conditioning",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7d69503c371d.jpeg",
+      "caption": "",
+      "source": "www.self.com",
+      "original_width": "1499px",
+      "original_height": "1124px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/19c1e9b9e3cc.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    }
+  ]
+}

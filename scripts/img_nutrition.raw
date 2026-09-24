@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "healthy meal prep containers lean protein vegetables"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "healthy meal prep containers lean protein vegetables",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6f519390aa59.png",
+      "caption": "",
+      "source": "Blendtec",
+      "original_width": "1238px",
+      "original_height": "822px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/081435c8ced0.png",
+      "caption": "",
+      "source": "Yahoo Health",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2544da70065.jpg",
+      "caption": "",
+      "source": "The Everygirl",
+      "original_width": "1080px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d5f439278f6b.jpg",
+      "caption": "",
+      "source": "Delish",
+      "original_width": "2121px",
+      "original_height": "1414px"
+    }
+  ]
+}
